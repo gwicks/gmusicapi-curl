@@ -3,11 +3,9 @@ gmusicapi-curl
 
 A C++ implementation of the Google Music API using libcurl.
 
-Prequisites
+Prequisites (Base)
 ==============
 Boost Libraries
-
-Ncurses Development Libraries (for the example player)
 
 Curl Development Libraries
 
@@ -15,7 +13,11 @@ TagLib Libraries
 
 JsonCPP
 
-mpg123 (For playback)
+(For cplayer)
+
+Ncurses Development Libraries
+
+mpg123
 
 Installation/Usage
 ===================
