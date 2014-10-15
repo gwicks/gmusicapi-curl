@@ -13,7 +13,9 @@ TagLib Libraries
 
 JsonCPP
 
-(For cplayer)
+
+Prequisites (CPlayer)
+==============
 
 Ncurses Development Libraries
 
