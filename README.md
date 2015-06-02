@@ -30,4 +30,4 @@ cplayer.cpp is an example application that uses the API and is a good example of
 Issues
 ===================
 
-Appears to have heavy issues compiling on FreeBSD for unknown reasons (possibly having to do with the port of JsonCPP)
+Appears to have heavy issues compiling on FreeBSD for unknown reasons (possibly having to do with the port of JsonCPP).
